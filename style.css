@@ -1,11 +1,18 @@
 body {
-    
-    background: hsla(295, 99%, 49%, 0.178)
+	background: #CCCCCC
+}
+#banner {
+   width: 100%;
+}
+h1 {
+text-align: center;
 }
 p {
-    text-align: center; 
+	text-align: center;
 }
-
+#Aprofissãoveterinária {
+	font-size:20px
+}
 em strong {
-    color: rgba(255, 0, 140, 0.192)
+	color: #FF0000;
 }
