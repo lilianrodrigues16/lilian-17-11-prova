@@ -5,7 +5,10 @@ body {
 #dowload {  
 width: 100%;
 }
-
+#Ocampo {
+	color: aquamarine;
+	text-align: center;
+}
 
 h1 {
 	text-align: center;
